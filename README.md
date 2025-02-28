@@ -1,1 +1,1 @@
-# Loan_AApproval_Prediction_Kaggle_Competition
+# Loan_Approval_Prediction_Kaggle_Competition
